@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CodeFile1.cs" />
+    <None Include="Class.cs" />
     <None Include="Structures.cs" />
     <None Include="CodeFile2.cs" />
     <Compile Include="StaticConstructor.cs" />
